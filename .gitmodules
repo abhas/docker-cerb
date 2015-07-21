@@ -1,0 +1,3 @@
+[submodule "cerb"]
+	path = cerb
+	url = https://github.com/wgm/cerb.git
